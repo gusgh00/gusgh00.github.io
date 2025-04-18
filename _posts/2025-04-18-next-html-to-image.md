@@ -35,6 +35,7 @@ npm i --save html-to-image
 
 ```tsx
 <div id="image-section">테스트</div>
+<button onClick={() => saveConvertImage()}>테스트</div>
 ```
 
 DOM을 불러오는 방법으로 useRef를 사용하는 방법도 있지만 여기서는 document로 불러오는 방법을 선택하도록 하겠습니다. getElementById로 불러올 id를 지정하여 줍니다.
@@ -95,6 +96,7 @@ export default function Home() {
 		}
 		return (
 				<div id="schedule-image">테스트</div>
+        <button onClick={() => saveConvertImage()}>테스트</div>
 		)
 }
 ```
