@@ -7,9 +7,6 @@ categories: [프론트엔드, Next.js | React]
 tags: [nextjs, frontend, image, img, convert, dom, typescript, htmltoimage, html2canvas]
 toc: true
 comments: true
-pin: true
-math: true
-mermaid: true
 ---
 
 스케줄표의 내용을 자율적으로 수정하고 테마를 꾸며주는 기능을 웹으로 제작하게 되었다.
