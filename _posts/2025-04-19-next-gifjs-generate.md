@@ -175,7 +175,7 @@ ReferenceError: navigator is not defined
 > 
 > Export encountered an error on /page: /, exiting the build.
 > ⨯ Static worker exited with code: 1 and signal: null
-> {: .prompt-danger }
+{: .prompt-danger }
 
 그냥 app router 내 에서 빌드하게 되면 다음과 같은 에러가 발생합니다.
 
