@@ -62,9 +62,9 @@ const saveConvertImage = () => {
 
 > Type error: Argument of type 'HTMLElement | null' is not assignable to parameter of type 'HTMLElement'.
 Type 'null' is not assignable to type 'HTMLElement'.
-{: .prompt-error }
+{: .prompt-danger }
 
-타입스크립트에서 발생되는 에러로 getElementById로 불러오는 노드의 타입은 HTMLElement, null이 적용 가능하기 때문에 자체적으로 null이 아님을 선언해야합니다.
+타입스크립트에서 주로 발생되는 타입 에러로 getElement로 불러오는 노드의 타입은 HTMLElement, null이 적용 가능하기 때문에 자체적으로 null이 아님을 선언해야합니다.
 
 ```tsx
 let node = document.getElementById('image-section') as HTMLElement
