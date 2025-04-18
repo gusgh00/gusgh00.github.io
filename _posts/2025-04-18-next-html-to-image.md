@@ -96,7 +96,7 @@ export default function Home() {
 		}
 		return (
 				<div id="schedule-image">테스트</div>
-        <button onClick={() => saveConvertImage()}>테스트</div>
+				<button onClick={() => saveConvertImage()}>테스트</div>
 		)
 }
 ```
