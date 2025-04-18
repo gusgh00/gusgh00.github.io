@@ -1,5 +1,5 @@
 ---
-title: Next.js gif.js로 gif 이미지 만들기 (html-to-image)
+title: Next.js gif.js로 gif 이미지 만들기 (gif.js.optimized)
 description: Next.js에서 gif.js (gif.js.optimized)로 gif 이미지를 만들어 보겠습니다.
 author: hyno
 date: 2024-04-19 00:00:00 +/-TTTT
