@@ -1,7 +1,7 @@
 ---
 title: Next.js DOM 이미지로 변환하여 다운로드하기 (html-to-image)
 description: Next.js에서 보여주는 DOM을 이미지로 다운로드 하겠습니다.
-author: gusgh00
+author: hyno
 date: 2024-04-18 00:00:00 +/-TTTT
 categories: [프론트엔드, Next.js | React]
 tags: [nextjs, frontend, image, img, convert, dom, typescript, htmltoimage, html2canvas]
