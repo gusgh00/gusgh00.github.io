@@ -13,7 +13,7 @@ order: 4
 
 - 📫 How to reach me **hyno0913@naver.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3><br/>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -68,7 +68,8 @@ order: 4
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusgh00&show_icons=true&locale=en&layout=compact" alt="gusgh00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusgh00&show_icons=true&locale=en" alt="gusgh00" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusgh00&show_icons=true&locale=en&layout=compact" alt="gusgh00" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gusgh00&show_icons=true&locale=en" alt="gusgh00" />
+</p>
 
