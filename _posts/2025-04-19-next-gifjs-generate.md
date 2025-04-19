@@ -36,7 +36,7 @@ npm i --save html-to-image gif.js.optimized
 
 > `node_modules > gif.js.optimized > dist > gif.worker.js`
 파일 내 코드를 따옴표 안에 넣어주면 됩니다.
-{: .prompt-warning }
+{: .prompt-tip }
 
 ```tsx
 const workerStr = `!function(t){function e(r){if(i[r])return i[r].exports;
