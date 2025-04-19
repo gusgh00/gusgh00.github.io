@@ -26,8 +26,8 @@ order: 4
 ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg){: width="40" height="40" .left}
 ![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg){: width="40" height="40" .left}
 ![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg){: width="40" height="40" .left}
-![vite](https://bestofjs.org/logos/vuetify.svg){: width="40" height="40" .left}
+![vite](https://bestofjs.org/logos/vuetify.svg){: width="40" height="40"}
 
 ## Github Status:
 ![vercel](https://github-readme-stats.vercel.app/api/top-langs?username=gusgh00&show_icons=true&locale=en&layout=compact){: width="300" height="165" .left}
-![vercel](https://github-readme-stats.vercel.app/api?username=gusgh00&show_icons=true&locale=en){: width="467" height="195" .left}
+![vercel](https://github-readme-stats.vercel.app/api?username=gusgh00&show_icons=true&locale=en){: width="467" height="195"}
