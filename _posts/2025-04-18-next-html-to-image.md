@@ -9,7 +9,6 @@ toc: true
 comments: true
 ---
 
-![hyno-profile](https://raw.githubusercontent.com/gusgh00/github_blog_img/refs/heads/main/hyno-profile.png){: width="200" height="200" .left}
 스케줄표의 내용을 자율적으로 수정하고 테마를 꾸며주는 기능을 웹으로 제작하게 되었습니다.
 처음에는 이 기능을 필요로 했던 사용자에게 빠르게 제공해주기 위해 바닐라js로 개발하였고 `html2canvas`를 사용하였습니다.
 그러나 `html2canvas`에는 치명적이진 않지만 불편했던 단점들이 눈에 들어왔습니다. 몇 가지 css가 적용이 안되어 스타일 적용에 번거로움이 생긴 것입니다.
