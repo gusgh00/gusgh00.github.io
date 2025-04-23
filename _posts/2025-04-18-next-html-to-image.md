@@ -7,10 +7,7 @@ categories: [프론트엔드, Next.js | React]
 tags: [nextjs, frontend, image, img, convert, dom, typescript, htmltoimage, html2canvas]
 toc: true
 comments: true
-img_path: /assets/img/posts
 ---
-
-![hyno-profile.png](/2025-04-18-next-html-to-image/hyno-profile.png){: width="300" height="300" .left}
 
 스케줄표의 내용을 자율적으로 수정하고 테마를 꾸며주는 기능을 웹으로 제작하게 되었습니다.
 처음에는 이 기능을 필요로 했던 사용자에게 빠르게 제공해주기 위해 바닐라js로 개발하였고 `html2canvas`를 사용하였습니다.
